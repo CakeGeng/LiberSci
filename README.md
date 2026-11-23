@@ -1,3 +1,18 @@
+
+**2026.11.24 LiberSci v1.1.0版本更新：**
+
+[立即下载LiberSci v1.1.0](https://github.com/CakeGeng/LiberSci/releases/download/v1.1.0/LiberSci-Setup-1.1.0-x64.exe)
+
+**更新功能：**
+
+1. AI助手和求知域卡片对话支持添加图片；
+2. 部分场景下支持文件直接拖拽添加交互方式；
+3. AI功能API Key支持按照不同功能单独设置；
+4. 一些已知问题的修复
+
+注：当前版本支持Windows。
+
+
 **2026.11.12 LiberSci v1.0.0版本正式上架：**
 
 [立即下载LiberSci v1.0.0](https://github.com/CakeGeng/LiberSci/releases/download/v1.0.0/LiberSci-Setup-1.0.0-x64.exe)
